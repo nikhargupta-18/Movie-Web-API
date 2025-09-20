@@ -253,6 +253,3 @@ This project is open source and available under the MIT License.
    - Change the PORT in `.env` file
    - Or kill the process using the port: `lsof -ti:8080 | xargs kill`
 
-### Support
-
-For issues and questions, please check the OMDb API documentation: [http://www.omdbapi.com/](http://www.omdbapi.com/)
