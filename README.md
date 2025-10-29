@@ -28,26 +28,6 @@ A comprehensive REST API built with Go and Gin framework that provides movie inf
   - Level 3: Actor-based recommendations (lowest priority)
 - **Response**: Hierarchical recommendations with up to 20 movies per level
 
-## Prerequisites
-
-### Install Go
-1. **macOS**: 
-   ```bash
-   brew install go
-   ```
-   
-2. **Alternative**: Download from [https://golang.org/dl/](https://golang.org/dl/)
-
-3. **Verify installation**:
-   ```bash
-   go version
-   ```
-
-### Get OMDb API Key
-1. Visit [http://www.omdbapi.com/apikey.aspx](http://www.omdbapi.com/apikey.aspx)
-2. Sign up for a free API key
-3. Save your API key for the next step
-
 ## Setup Instructions
 
 ### 1. Clone/Navigate to Project
